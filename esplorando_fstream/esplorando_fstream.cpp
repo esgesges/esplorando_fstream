@@ -29,7 +29,7 @@ public:
 
 		f2.close();
 	}
-	
+		
 };
 
 int main()
